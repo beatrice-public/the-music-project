@@ -97,5 +97,21 @@ My preferred instruments are piano, acoustic guitar, rock guitar, rock organ. I 
 1. Read books on music theory and fine grain terms.
 1. Learn instruments performance techniques to avoid rudimentary mistakes in composition.
 
+### Project planning
+
+1. Compose in group of 4. Push to Github after each day.
+1. Day 1-2: full length.
+    1. Separate tracks.
+    1. Detect speed, pitch.
+    1. Transcribe lead, bass.
+    1. Create playlist, avoid abusing one song.
+1. Day 3: rhythm track for all.
+1. Day 4: drum track for all.
+1. Day 5: decor track for all.
+1. Day 6: redo lead, bass track for all.
+    1. Separate tracks for composed music for validation.
+1. Day 11: exploring genres.
+1. Day 12: midi/8bit/sheet conversion.
+
 ### References
 
