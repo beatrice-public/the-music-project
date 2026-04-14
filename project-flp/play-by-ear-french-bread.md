@@ -6,7 +6,7 @@ Software aspect: As anyone can tell that I only use two patterns per music piece
 
 My preferred instruments are piano, acoustic guitar, rock guitar, rock organ. I avoided using strings as much as possible as I don't have the skills to make it sound realistic in the synthesizer neither do I have the skill to perform it.
 
-### Notes
+### Notes for each song
 
 * 01 - The end of 1000 years
 
@@ -44,7 +44,43 @@ My preferred instruments are piano, acoustic guitar, rock guitar, rock organ. I 
 
 * 15 - Silent fortissimo
 
-### Assignments
+### Project planning high level (Update 2026-04-14)
+
+1. Compose in group of 4. Push to Github after each day.
+1. Day 1-2: coarse grain full length.
+    1. Admin: Separate tracks.
+    1. Admin: Detect speed, pitch.
+    1. First version of drum, lead, chord.
+1. Day 3-4: coarse grain.
+    1. Transcribe bass, rhythm.
+    1. Create pattern loop.
+    1. Create playlist, avoid abusing one song.
+1. Day 5-6: fine grain.
+    1. Fine grain bass and rhythm for all.
+    1. Fine grain lead for all.
+    1. Create dual track excluding lead for validation.
+1. Day 7-8: fine grain.
+    1. Fine grain drum for all.
+    1. Fine grain decor for all.
+    1. Add envelopes and other effects.
+    1. Update scripts and libraries.
+    1. Organize folders.
+    1. Add other remixes to playlist.
+1. Repeat day 5-8.
+1. Day 11: exploring genres.
+1. Day 12: midi/8bit/sheet conversion.
+1. Repeat day 11-12.
+
+### Conventions across all projects (Update 2026-04-14)
+
+1. Use patterns in symphony way. We want the music sheet to flow like classical music instead of optimized automations for pop songs.
+1. Use keywords opening and ending.
+1. BPM adjusts to 100-250.
+1. Main automation starts in 2nd bar.
+1. Drum volume 80%. Everything else adjusts around it.
+1. Master volume 90%.
+
+### Project planning low level
 
 1. Coarse grain: Cover full length of the song.
     1. Detecting the song's speed and pitch.
@@ -96,22 +132,6 @@ My preferred instruments are piano, acoustic guitar, rock guitar, rock organ. I 
     1. Normalizing (for compilation instead of composition).
 1. Read books on music theory and fine grain terms.
 1. Learn instruments performance techniques to avoid rudimentary mistakes in composition.
-
-### Project planning
-
-1. Compose in group of 4. Push to Github after each day.
-1. Day 1-2: full length.
-    1. Separate tracks.
-    1. Detect speed, pitch.
-    1. Transcribe lead, bass.
-    1. Create playlist, avoid abusing one song.
-1. Day 3: rhythm track for all.
-1. Day 4: drum track for all.
-1. Day 5: decor track for all.
-1. Day 6: redo lead, bass track for all.
-    1. Separate tracks for composed music for validation.
-1. Day 11: exploring genres.
-1. Day 12: midi/8bit/sheet conversion.
 
 ### References
 
