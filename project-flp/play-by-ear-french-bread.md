@@ -47,28 +47,28 @@ My preferred instruments are piano, acoustic guitar, rock guitar, rock organ. I 
 ### Project planning high level (Update 2026-04-14)
 
 1. Compose in group of 4. Push to Github after each day.
-1. Day 1-2: coarse grain full length.
+1. Composing: Day 1-2: coarse grain full length.
     1. Admin: Separate tracks.
     1. Admin: Detect speed, pitch.
     1. First version of drum, lead, chord.
-1. Day 3-4: coarse grain.
+1. Composing: Day 3-4: coarse grain.
     1. Transcribe bass, rhythm.
     1. Create pattern loop.
     1. Create playlist, avoid abusing one song.
-1. Day 5-6: fine grain.
+    1. Add other remixes to playlist.
+1. Composing: Day 5-6: fine grain.
     1. Fine grain bass and rhythm for all.
     1. Fine grain lead for all.
     1. Create dual track excluding lead for validation.
-1. Day 7-8: fine grain.
+    1. Add envelopes and other effects.
+1. Composing: Day 7-8: fine grain.
     1. Fine grain drum for all.
     1. Fine grain decor for all.
-    1. Add envelopes and other effects.
     1. Update scripts and libraries.
     1. Organize folders.
-    1. Add other remixes to playlist.
 1. Repeat day 5-8.
-1. Day 11: exploring genres.
-1. Day 12: midi/8bit/sheet conversion.
+1. Mixing: Day 11: exploring genres.
+1. Mixing: Day 12: midi/8bit/sheet conversion.
 1. Repeat day 11-12.
 
 ### Conventions across all projects (Update 2026-04-14)
